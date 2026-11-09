@@ -1,5 +1,5 @@
 
-# 🌸 Aesthetic Calculator
+# Calculator
 
 A simple and functional calculator built using HTML, CSS, and JavaScript.
 
