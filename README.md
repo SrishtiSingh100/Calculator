@@ -3,6 +3,10 @@
 
 A simple and functional calculator built using HTML, CSS, and JavaScript.
 
+## 📸 Preview
+
+![Aesthetic Calculator](calculator.png)
+
 ## ✨ Features
 - Basic arithmetic operations (+, -, *, /, %)
 - Decimal number support
